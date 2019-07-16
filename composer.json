@@ -1,0 +1,10 @@
+{
+    "name": "klimovakaterina/yii2-phoneformatter",
+    "type": "yii2-extension",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "klimovakaterina\\phoneformatter\\": ""
+        }
+    }
+}
