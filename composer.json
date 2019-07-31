@@ -6,5 +6,12 @@
         "psr-4": {
             "klimovakaterina\\phoneformatter\\": ""
         }
-    }
+    },
+	"repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/klimovakaterina/yii2-phoneformatter"
+        }
+    ]
 }
+
